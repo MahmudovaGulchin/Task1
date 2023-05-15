@@ -2,7 +2,7 @@
 import PersonalInfo from "./PersonalInfo";
 import Experience from "./Experience";
 import Contacts from "./Contacts";
-// import logo from "./logo.svg";
+import logo from "./logo.svg";
 import './App.css'
 
 
